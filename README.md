@@ -4,6 +4,7 @@ Here you can find a giant list of urls to learn a brand new programming language
 # Table of contents
 - [Assembly](#assembly)
 - [Bash](#bash)
+- [C](#c)
 
 # Assembly
 | Name | Link | Video |
@@ -34,4 +35,19 @@ Here you can find a giant list of urls to learn a brand new programming language
 <div>
     <img src="./images/bash.png" alt="Bash Logo" width="150px">
     <p>Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.</p>
+</div>
+
+# C
+| Name | Link | Video |
+| ---- | ---- | ----- |
+| W3Schools | https://www.w3schools.com/c | no |
+| cprogramming.com | https://www.cprogramming.com/tutorial/c-tutorial.html | no |
+| Javatpoint | https://www.javatpoint.com/c-programming-language-tutorial | no |
+| Free Code Camp | https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/ | no |
+| Geeks for geeks | https://www.geeksforgeeks.org/c-programming-language/ | no |
+
+<br>
+<div>
+    <img src="./images/c.png" alt="C Logo" width="150px">
+    <p>C is a procedural language that provides no support for objects and classes. C++ is a combination of OOP and procedural programming languages. C has 32 keywords and C++ has 63 keywords. C supports built-in data types, while C++ supports both built-in and user-defined data types.</p>
 </div>
