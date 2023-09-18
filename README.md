@@ -1,12 +1,3 @@
-<style>
-    img{
-        float: left;
-        margin-right: 1em;
-        width: 150px;
-        height: 150px;
-    }
-</style>
-
 # Learn Programming
 Here you can find a giant list of urls to learn a brand new programming language.
 
@@ -25,7 +16,7 @@ Here you can find a giant list of urls to learn a brand new programming language
 
 <br>
 <div>
-    <img src="./images/asm.png" alt="Assembly Programming Language Logo">
+    <img src="./images/asm.png" alt="Assembly Programming Language Logo" width="150px">
     <p>Assembly language is a low-level programming language for a computer or other programmable device specific to a particular computer architecture in contrast to most high-level programming languages, which are generally portable across multiple systems. Assembly language is converted into executable machine code by a utility program referred to as an assembler like NASM, MASM, etc.</p>
 </div>
 <br><br><br>
@@ -41,6 +32,6 @@ Here you can find a giant list of urls to learn a brand new programming language
 
 <br>
 <div>
-    <img src="./images/bash.png" alt="Bash Logo">
+    <img src="./images/bash.png" alt="Bash Logo" width="150px">
     <p>Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.</p>
 </div>
