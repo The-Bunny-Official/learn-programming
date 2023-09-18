@@ -32,6 +32,6 @@ Here you can find a giant list of urls to learn a brand new programming language
 
 <br>
 <div>
-    <img src="./images/bash.png" alt="Bash Logo" width="150px">
+    <img src="./images/bash.png" alt="Bash Logo" width="150px" style="float: left; margin-right: em;">
     <p>Bash is a command processor that typically runs in a text window where the user types commands that cause actions. Bash can also read and execute commands from a file, called a shell script.</p>
 </div>
