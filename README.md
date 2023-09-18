@@ -20,7 +20,6 @@ Here you can find a giant list of urls to learn a brand new programming language
     <img src="./images/asm.png" alt="Assembly Programming Language Logo" width="150px">
     <p>Assembly language is a low-level programming language for a computer or other programmable device specific to a particular computer architecture in contrast to most high-level programming languages, which are generally portable across multiple systems. Assembly language is converted into executable machine code by a utility program referred to as an assembler like NASM, MASM, etc.</p>
 </div>
-<br><br><br>
 
 # Bash
 | Name | Link | Video |
